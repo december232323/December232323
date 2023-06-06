@@ -8,12 +8,3 @@
 <a href="https://github.com/december232323?tab=stars">
   <img src="https://github-readme-stats.vercel.app/api?username=december232323" alt="december232323? GitHub stats" />
 </a>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={december232323}&theme={2077}" alt="GitHub Profile Summary" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username={december232323}&theme={2077}&exclude={exclude}" alt="GitHub Profile Summary" />
-
-
-
-
-
-
-
