@@ -2,6 +2,7 @@
 
 <h1 align="center">Hi there, I'm Ilya </a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
+<h3 align="center">🇺</h3>
 
-<img src="!C:\Users\kurse\OneDrive\Робочий стіл\Нова папка (3)'\1.jpg" alt="">
+<img src="![image](https://github.com/december232323/December232323/assets/111600728/347c6295-682e-4817-a275-f8eb698c187f)
+" alt="">
