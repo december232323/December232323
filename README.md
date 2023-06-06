@@ -5,3 +5,7 @@
 <a href="https://git.io/streak-stats">
   <img src="https://streak-stats.demolab.com?user=December&theme=tokyonight&hide_border=true&border_radius=11&card_width=1080" alt="GitHub Streak" />
 </a>
+<a href="https://github.com/december232323?tab=stars">
+  <img src="https://github-readme-stats.vercel.app/api?username=december232323" alt="december232323? GitHub stats" />
+</a>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=december232323shat&theme=solarized_dark" alt="GitHub Profile Summary" />
