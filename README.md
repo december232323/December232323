@@ -4,18 +4,6 @@
 <!DOCTYPE html>
 <html>
 <head>
- 
- <!DOCTYPE html>
-<html>
-<head>
-  <title>Snake Game</title>
-</head>
-<body>
-  <p align="center">
-    <img width="600" src="assets/github-snake.svg" alt="snake"/>
-  </p>
-</body>
-</html>
 
  
  <p align="center"
