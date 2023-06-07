@@ -5,11 +5,27 @@
 <html>
 <head>
  
+ <!DOCTYPE html>
+<html>
+<head>
+  <title>Snake Game</title>
+</head>
+<body>
+  <p align="center">
+    <img width="600" src="assets/github-snake.svg" alt="snake"/>
+  </p>
+</body>
+</html>
+
  
+ <p align="center"
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=3000&width=1000&lines=Please+verify+me+Kinda+Windy+today+Im+not+bot+💗+💗+💗" alt="Typing SVG" /></a>
  I'm ilya (14 y.o)!😎
  I'm like watch anime, lisen musik, meditate and play computer game.
  
+
+
+
 <details>
 <summary>:trophy: Github Stats</summary>                          
 <a href="https://git.io/streak-stats">
@@ -17,7 +33,8 @@
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=december232323&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true" alt="Ashutosh's GitHub Activity Graph">
 </a>
-  </a>
+ </a>
+ <p align="center"
 <a href="https://github.com/december232323?tab=stars">
   <img src="https://github-readme-stats.vercel.app/api?username=december232323" alt="december232323? GitHub stats" />
 </a>
@@ -68,5 +85,11 @@
 
 ### Socials
 <br><br>
- <a href="https://t.me/Reason to live"><img src="https://img.shields.io/badge/telegram-Reason%20to%20live-blue"></a>
+<a href="https://t.me/Reason to live"><img src="https://img.shields.io/badge/telegram-Reason%20to%20live-blue"></a>
 <a href="mailto:kursedovahmed@gmail.com"><img src="https://img.shields.io/badge/gmail-kursedovahmed%40gmail.com-red"></a>
+
+
+
+
+
+
