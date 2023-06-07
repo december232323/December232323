@@ -69,3 +69,8 @@
 <a href="https://www.instagram.com/salt_clown_/">
   <img src="https://img.shields.io/badge/insta-salt__clown__-ff69b4" alt="Instagram"/>
 </a>
+
+<a href="https://github.com/piyushsuthar/github-readme-quotes">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Readme Quotes" />
+</a>
+
