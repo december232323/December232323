@@ -8,3 +8,11 @@
 <a href="https://github.com/december232323?tab=stars">
   <img src="https://github-readme-stats.vercel.app/api?username=december232323" alt="december232323? GitHub stats" />
 </a>
+Hi 👋 My name is Ilya
+=====================
+
+I am a student and created an account for personal use or for downloading various programs
+
+* 🌍  I'm based in Urain city Rivne
+* ✉️  You can contact me at [kursedovahmed@gmail.com](mailto:kursedovahmed@gmail.com)
+* ⚡  I'm secretly Batman... but don't tell anyone
