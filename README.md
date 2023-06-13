@@ -3,7 +3,7 @@
   </p>
   <p align="center">I like watching anime, listening to music, meditating, and playing computer games.</p>
   <p align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=3000&width=1000&lines=Please+verify+me+Kinda+Windy+today+Im+not+bot+💗+💗+💗+💗+💗+💗+💗+💗+💗+💗+💗+💗" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=3000&width=1000&lines=ебал+мать+админа+Kinda+Windy+today+🐷🐷🐷🐷🐷🐷🐷🐷🐷🐷🐷" alt="Typing SVG" /></a>
   <details>
     <summary>:trophy: Github Stats</summary>
     <a href="https://git.io/streak-stats">
